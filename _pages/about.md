@@ -6,7 +6,7 @@ subtitle: <a href='#'>Nanyang Technological University</a>, Singapore. tianze001
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D Student, Computer Science</p>
